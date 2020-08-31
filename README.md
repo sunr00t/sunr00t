@@ -7,7 +7,7 @@
 
 - 📚 Estou interessado em: **Mongo, Docker, TensorFlow (Learning Machine)**
 
-- ⚡ Habilidades **Intermediário Linux**
+- ⚡ Habilidades: **Linux (Intermediário)**
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunr00t&layout=compact&hide=html" alt="sunr00t" /></p>
 
