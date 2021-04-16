@@ -1,8 +1,6 @@
 <h1 align="center">Olá dev, seja bem vindo! 👋</h1>
 <h3 align="center">Me chamo Bruno Nascimento. Sou um estudante de Ciência da Computação.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunr00t" alt="sunr00t" /> </p>
-
 - 🌱 Estou estudando **NodeJS, ReactJs e React-Native**
 
 - 📚 Estou interessado em: **Mongo, Docker, TensorFlow (Learning Machine)**
