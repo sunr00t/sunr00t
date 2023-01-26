@@ -4,17 +4,19 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg"alt="rails" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
-
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunr00t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunr00t&theme=github_dark)
+
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunr00t&theme=github_dark)
+![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunr00t&theme=github_dark&utcOffset=8)
+
+
 
 ### Contact
 [![Personal Page](https://img.shields.io/badge/Homepage-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://www.brunonascimento.dev.br)
