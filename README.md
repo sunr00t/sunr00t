@@ -11,11 +11,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
 </div>
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunr00t&theme=github_dark)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunr00t&theme=radical)
 
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunr00t&theme=github_dark)
-![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunr00t&theme=github_dark&utcOffset=8)
-
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunr00t&theme=radical)
+![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunr00t&theme=radical&utcOffset=3)
 
 
 ### Contact
