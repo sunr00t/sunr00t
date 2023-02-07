@@ -1,7 +1,6 @@
 <div align="center">
   
   <h1>Bruno Nascimento</h1>
-  <h2>Technology enthusiast</h2>
   <img src="https://i.ibb.co/NWHwmVn/sunr00t.png" alt="sunr00t" />
   </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
