@@ -1,7 +1,7 @@
 ### Contact
 [![HomePage](https://custom-icon-badges.herokuapp.com/badge/Homepage-000000?style=for-the-badge&logo=home&logoColor=white)](https://www.brunonascimento.dev.br)
 [![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-a-nascimento-38033a179)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunr00t@gmail.com)
+[![Contato](https://img.shields.io/badge/Contato-358F0E?style=for-the-badge&logo=email&logoColor=white)](mailto:contato@brunonascimento.dev.br)
 
 
 <div align="center">
