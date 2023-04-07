@@ -1,3 +1,7 @@
+### Contact
+[![HomePage](https://custom-icon-badges.herokuapp.com/badge/Homepage-000000?style=for-the-badge&logo=home&logoColor=white)](https://www.brunonascimento.dev.br)
+[![Linkding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-a-nascimento-38033a179)
+
 <div align="center">
   
   <h1>Bruno Nascimento</h1>
