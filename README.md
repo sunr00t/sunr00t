@@ -1,11 +1,13 @@
-### Contact
 [![Linkding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-a-nascimento-38033a179)
 [![Contato](https://img.shields.io/badge/Contato-358F0E?style=for-the-badge&logo=email&logoColor=white)](mailto:sunr00t@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sunr00t)
 
-<div align="center">
-  
-  <h1>Bruno Nascimento</h1>
+## Hi there. I'm Bruno 👋
+#### Just a computer's lover! computer ❤️
+
+<div align="left">
   <img src="https://i.ibb.co/NWHwmVn/sunr00t.png" alt="sunr00t" />
+  
   </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
