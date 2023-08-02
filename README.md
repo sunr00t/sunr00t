@@ -6,8 +6,6 @@
 #### Just a computer's lover! computer ❤️
 
 <div align="left">
-  <img src="https://i.ibb.co/NWHwmVn/sunr00t.png" alt="sunr00t" />
-  
   </br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
