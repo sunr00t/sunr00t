@@ -18,7 +18,9 @@
   </br>
 </div>
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunr00t&theme=radical)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunr00t&theme=gruvbox)
 
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunr00t&theme=radical)
-![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunr00t&theme=radical&utcOffset=3)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunr00t&theme=gruvbox)
+![Top languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunr00t&theme=gruvbox)
+![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sunr00t&theme=gruvbox&utcOffset=3)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunr00t&theme=gruvbox)
