@@ -5,8 +5,6 @@
 
 ### Just a computer's lover! 💻❤️
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunr00t&label=Profile views&color=0e75b6&style=flat" alt="sunr00t" /> </p>
-
 - 💬 Ask me about **Software Development Engineer**
 
 - 📫 How to reach me **contato@brunonascimento.dev.br**
