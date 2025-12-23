@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Software Development Engineer**
 
-- 📫 How to reach me **contato@brunonascimento.dev.br**
-
 - 📝 I regularly write articles on **[https://www.brunonascimento.dev.br/](https://www.brunonascimento.dev.br/)**
 
 <h3 align="left">Connect with me:</h3>
