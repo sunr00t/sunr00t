@@ -5,7 +5,7 @@
 
 ### Just a computer's lover! 💻❤️
 
-- 💬 **Software Development Engineer**
+- 💬 **Software Development**
 
 - 📝 I regularly write articles on **[https://www.brunonascimento.dev.br/](https://www.brunonascimento.dev.br/)**
 
